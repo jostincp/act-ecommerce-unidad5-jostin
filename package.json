@@ -2,9 +2,10 @@
   "name": "act-ecommerce-unidad5-jostin",
   "version": "1.0.0",
   "description": "Proyecto de ecommerce creado con bootstrap",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "npx http-server"
   },
   "repository": {
     "type": "git",
