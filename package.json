@@ -1,0 +1,22 @@
+{
+  "name": "act-ecommerce-unidad5-jostin",
+  "version": "1.0.0",
+  "description": "Proyecto de ecommerce creado con bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jostincp/act-ecommerce-unidad5-jostin.git"
+  },
+  "keywords": [
+    "\"node.js\""
+  ],
+  "author": "jostincp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jostincp/act-ecommerce-unidad5-jostin/issues"
+  },
+  "homepage": "https://github.com/jostincp/act-ecommerce-unidad5-jostin#readme"
+}
